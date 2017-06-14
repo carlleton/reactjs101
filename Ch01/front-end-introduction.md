@@ -3,7 +3,7 @@
 ![Web 前端工程入门简介](./images/frameworks.png "Web 前端工程入门简介")
 
 ## 前言
-随着现代化网页（Modern Web）开发专业和复杂性的提升以及对于使用者体验的要求下，网页开发已从过去的 Web Develpoer 一夫当关，转向专业分工，更加细分成网页前端（Web Front End）、网页后端（Web Back End）等职位。此外，由于跨平台、跨浏览器的需求日益增加，技术变化更迭快速，市场上对于前端工程师（Web Front End Engineer）的需求也与日俱增，前端工程的（Front End Engineering）所要面对的挑战也越来越多。
+随着现代化网页（Modern Web）开发专业和复杂性的提升以及对于使用者体验的要求下，网页开发已从过去的 Web Developer 一夫当关，转向专业分工，更加细分成网页前端（Web Front End）、网页后端（Web Back End）等职位。此外，由于跨平台、跨浏览器的需求日益增加，技术变化更迭快速，市场上对于前端工程师（Web Front End Engineer）的需求也与日俱增，前端工程的（Front End Engineering）所要面对的挑战也越来越多。
 
 ![Web 前端工程入门简介](./images/html-css-js.png "Web 前端工程入门简介")
 
